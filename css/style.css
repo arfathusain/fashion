@@ -1,6 +1,4 @@
-body{
-    /* font-family: 'Poppins', sans-serif; */
-}
+
 
 @media (min-width:991px) and (max-width:7000px) {
 
@@ -19,9 +17,7 @@ body{
         font-size: 60px;
     
     }
-    .arfat-4{
-        
-    }
+    
     .arfat-5{
         margin: 0px auto;
     }
@@ -42,6 +38,40 @@ body{
     .btn:hover{
         background-color: aliceblue;
         border:4px solid rgb(27, 244, 244);
+    }
+
+
+
+    /*  */
+
+    .arfat-9{
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: bold;
+        padding-left: 25px;
+        padding-right: 25px;
+        background-color: rgb(90, 203, 248);
+        border: 2px solid aquamarine;
+        border-radius: 10px;
+    }
+    .arfat-9:hover{
+        background-color: aliceblue;
+        border:4px solid rgb(27, 244, 244);
+    }
+    .arfat-8{
+        font-family: 'Poppins', sans-serif;
+        font-size: 50px;
+        font-weight: bold;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    .arfat-10{
+        height: 280px;
+        background-color: rgb(208, 210, 212);
+    border-radius: 25px;
+    }
+    .arfat-11{
+        padding: 10px;
     }
 
 
