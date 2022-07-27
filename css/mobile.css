@@ -1,40 +1,35 @@
-body{
-    /* font-family: 'Poppins', sans-serif; */
-}
-
-@media (min-width:991px) and (max-width:7000px) {
-
+@media (max-width:768px) {
     
     .arfat-2{
         font-family: 'Poppins', sans-serif;
         font-weight: bold;
         color: red;
-        font-size: 70px;
-        margin-top: 50px;
+        text-align: center;
+        font-size: 40px;
     }
     .arfat-3{
         font-family: 'Poppins', sans-serif;
         font-weight: bold;
         color: rgb(215, 158, 0);
-        font-size: 60px;
+        text-align: center;
+        font-size: 35px;
     
     }
     .arfat-4{
-        
+        margin-left: -10px;
     }
     .arfat-5{
         margin: 0px auto;
     }
-    .arfat-6{
-        padding-left: 60px;
-        padding-top: 90px;
+    .arfat-7{
+        text-align: center;
     }
     .btn{
         font-family: 'Poppins', sans-serif;
         font-size: 20px;
-        font-weight: 600;
-        padding-left: 20px;
-        padding-right: 20px;
+        font-weight: bold;
+        padding-left: 25px;
+        padding-right: 25px;
     }
     .bi{
         font-size: 25px;
@@ -47,4 +42,7 @@ body{
 
 
 
- }
+
+
+
+}
