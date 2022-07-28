@@ -2,13 +2,17 @@
 
 @media (min-width:991px) and (max-width:7000px) {
 
-    
+    .arfat-0{
+        background-color: rgb(255, 168, 235);
+        padding-bottom: 120px;
+        padding-top: 10px;
+    }    
     .arfat-2{
         font-family: 'Poppins', sans-serif;
         font-weight: bold;
         color: red;
         font-size: 70px;
-        margin-top: 50px;
+        margin-top: 10px;
     }
     .arfat-3{
         font-family: 'Poppins', sans-serif;
@@ -17,7 +21,9 @@
         font-size: 60px;
     
     }
-    
+    .arfat-4{
+        margin-top: -40px;
+    }
     .arfat-5{
         margin: 0px auto;
     }
@@ -68,13 +74,38 @@
     .arfat-10{
         height: 280px;
         background-color: rgb(208, 210, 212);
-    border-radius: 25px;
+        border-radius: 25px;
     }
     .arfat-11{
         padding: 10px;
     }
 
 
-
+    .arfat-13{
+        height: 240px;
+        
+    }
+    .arfat-12{
+        font-family: 'Poppins', sans-serif;
+        font-size: 50px;
+        font-weight: bold;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    .arfat-bg{
+        background-color: rgb(255, 175, 153);
+        padding-top: 10px;
+        padding-bottom: 40px;
+        margin-top: -50px;
+    }
+    .arfat-bg1{
+        background-color: rgb(255, 175, 153);
+        margin-top: -50px;
+        padding-top: 30px;
+    }
+    .arfat-15{
+        border-radius: 15px;
+        border: 2px solid red;
+    }
 
  }
